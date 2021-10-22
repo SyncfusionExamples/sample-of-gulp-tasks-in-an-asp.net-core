@@ -1,4 +1,4 @@
-# sample-of-gulp-tasks-in-an-asp.net-core
+# Gulp Sample Tasks in ASP.NET Core Application
 
 This repository contains the project that samples gulp task in ASP.NET Core. 
 
