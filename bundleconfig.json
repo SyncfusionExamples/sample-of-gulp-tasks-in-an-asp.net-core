@@ -1,0 +1,16 @@
+[
+  {
+    "outputFileName": "wwwroot/dist/cssminify/mystylesheet.min.css",
+    "inputFiles": [
+      "wwwroot/css/MyStyleSheet1.css",
+      "wwwroot/css/MyStyleSheet2.css"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/dist/jsminify/myjs.min.js",
+    "inputFiles": [
+      "wwwroot/js/MyJs1.js",
+      "wwwroot/js/MyJs2.js"
+    ]
+  }
+]

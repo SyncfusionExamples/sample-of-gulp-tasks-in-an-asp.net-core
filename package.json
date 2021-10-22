@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "name": "MyApplication",
+  "private": true,
+  "devDependencies": {
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-sass": "^5.0.0",
+    "gulp-terser": "^2.0.1",
+    "gulp-typescript": "^6.0.0-alpha.1",
+    "gulp4-run-sequence": "^1.0.1",
+    "merge-stream": "^2.0.0",
+    "sass": "^1.37.5"
+  },
+  "dependencies": {
+    "natives": "^1.1.6"
+  }
+}
